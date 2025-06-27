@@ -1,0 +1,20 @@
+# Dependencias
+node_modules/
+products-service/node_modules/
+inventory-service/node_modules/
+
+# Builds
+dist/
+products-service/dist/
+inventory-service/dist/
+
+# Archivos de entorno
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
