@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "password*",
+    "database": "db_linktic",
+    "host": "mysql",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "password*",
+    "database": "db_linktic",
+    "host": "mysql",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "password*",
+    "database": "db_linktic",
+    "host": "mysql",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
